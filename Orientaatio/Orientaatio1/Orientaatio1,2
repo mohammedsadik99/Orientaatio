@@ -1,0 +1,12 @@
+1. Simulation is ideal for analyzing everyday situations where real-world experimentation is costly, risky, or impractical. Some examples include:
+
+Traffic Flow: Simulating traffic changes (like road design or signal timing) avoids disrupting real traffic. Sustainability can be integrated by analyzing how electric vehicles, public transport, or biking impact emissions and air quality.
+Supply Chain: Testing inventory and logistics in simulation avoids real-world risks like stockouts or excess inventory. Sustainability focuses on optimizing transport to reduce fuel use and waste.
+Energy Use in Smart Homes: Simulating energy-efficient setups allows homeowners to optimize energy use without upfront investments. It helps evaluate the impact of renewable energy and energy-saving appliances.
+Incorporating sustainability into these simulations helps minimize environmental impact, optimize resource use, and plan for long-term resilience.
+
+2. A supermarket has key elements of variability, complexity, and interconnectedness:
+
+Variability: Fluctuations in customer arrivals, product demand, checkout times, and inventory levels due to time, season, and promotions.
+Complexity: Managing inventory, store layout, staff scheduling, and pricing strategies involves many moving parts and coordination.
+Interconnectedness: Supply chain, customer satisfaction, and technology systems (like POS and inventory management) are all tightly linked, where changes in one affect the others.
