@@ -1,0 +1,63 @@
+(W) Performance Measures
+Health Centre:
+
+Queue Length: Patients waiting.
+Service Time: Time with doctor.
+Wait Time: Time from arrival to consultation.
+Utilization: Time doctors are busy.
+Throughput: Patients seen per hour.
+System Time: Total time in the centre.
+Bank:
+
+Queue Length: Customers waiting.
+Service Time: Time for transactions.
+Wait Time: Time from arrival to service.
+Utilization: Time tellers are busy.
+Throughput: Transactions per hour.
+System Time: Total time in the bank.
+(W) Performance Measure Categories
+Service Point:
+Service Time: Time spent serving.
+Utilization: Proportion of active time.
+Customer:
+Wait Time: Time waiting.
+Queue Length: Number of customers in line.
+System Time: Total time in the system.
+(W) System Designs
+Health Centre:
+
+Reception
+GP Rooms
+Laboratory
+Pharmacy
+Bank:
+
+Customer Service Desk
+Teller Counters
+Loan Office
+ATM Machines
+(W) Main Loop Algorithm
+Pseudocode:
+
+plaintext
+Copy code
+Initialize simulation
+While running:
+    Get next event
+    Update time
+    Process event
+    If arrival, schedule next
+    If departure, handle it
+    Update statistics
+
+Print results
+(W) Simulator Coding Explanation
+a) A-Phase Coding:
+
+Setup: Initialize environment and first events.
+b) B-Events Coding:
+
+Processing: Handle events like arrivals and departures.
+c) C-Events Coding:
+
+Finalization: Collect and print results.
